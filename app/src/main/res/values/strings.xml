@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DistributingData</string>
+    <string name="title_activity_model_detail_page">ModelDetailPage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="publisher">Publisher</string>
+    <string name="category">Category</string>
+    <string name="search">Search</string>
+    <string name="go">Search</string>
+    <string name="error_message">Your search did not yield any results</string>
+    <string name="network_error">Network Error</string>
+</resources>
